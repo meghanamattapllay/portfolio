@@ -17,7 +17,7 @@ function Home() {
         </h3>
 
         <div className="buttons">
-          <a href="/RESUME MEGHANA.pdf" download>
+          <a href="/portfolio/Meghana_Resume.pdf" download>
             <button>Download Resume</button>
           </a>
 
