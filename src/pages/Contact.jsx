@@ -20,14 +20,7 @@ function Contact() {
           <h3>📍 Location</h3>
           <p>Warangal, Telangana</p>
 
-          <h3>🔗 LinkedIn</h3>
-          <a
-            href="https://linkedin.com"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Visit LinkedIn
-          </a>
+          
 
         </div>
 

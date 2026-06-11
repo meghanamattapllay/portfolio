@@ -17,17 +17,23 @@ function Home() {
         </h3>
 
         <div className="buttons">
-          <a href="/portfolio/Meghana_Resume.pdf" download>
-            <button>Download Resume</button>
-          </a>
 
           <a
-            href="https://github.com/"
+            href="https://github.com/meghanamattapllay"
             target="_blank"
             rel="noreferrer"
           >
             <button>GitHub</button>
           </a>
+
+          <a
+            href="https://www.linkedin.com/in/meghana-mattapally/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button>LinkedIn</button>
+          </a>
+
         </div>
       </section>
     </>
